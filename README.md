@@ -8,6 +8,8 @@ You can connect with him on [linkedin.com/in/cgrail](https://www.linkedin.com/in
 
 Or you can follow him on [twitter.com/cgrail](https://twitter.com/cgrail)
 
+# Talks from Christian Grail
+
 ## Talks from 2018
 
 ### Frontend Connect in Warsaw, Poland
