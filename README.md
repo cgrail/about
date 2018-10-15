@@ -70,6 +70,6 @@ Faster development with Grunt (SAP UI5/Angular)
 ## 2012
 
 ### SAP d-kom 2012 in Karlsruhe
-- Winner of the InnoJam
+[InnoJam presentation](https://blogs.sap.com/2012/03/28/and-the-winner-is-pre-dkom-innojam-2012-rot-is-over-now/)
 
 ![SAP d-kom 2012 in Karlsruhe](photos/DKOM_2012.jpg)
