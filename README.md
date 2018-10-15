@@ -10,7 +10,7 @@ Or you can follow him on [twitter.com/cgrail](https://twitter.com/cgrail)
 
 # Talks from Christian Grail
 
-## Talks from 2018
+## 2018
 
 ### Frontend Connect in Warsaw, Poland
 [Live Coding Session: Game Development with WebXR](https://frontend-con.io/speakers/#christian)
@@ -38,7 +38,7 @@ Or you can follow him on [twitter.com/cgrail](https://twitter.com/cgrail)
 ### JAX 2018 in Mainz, Germany
 [Developing an Augmented Reality Game in UI5 with ARCore for Web](https://jax.de/web-development-javascript/developing-an-augmented-reality-game-in-ui5-with-arcore-for-web/)
 
-## Talks from 2017
+## 2017
 
 ### Google Developer Group Karlsruhe DevFest 2017 in Karlsruhe, Germany
 [Augmented Reality Game Development - Live Coding Session](http://www.devfestka.de/info)
@@ -48,7 +48,7 @@ Or you can follow him on [twitter.com/cgrail](https://twitter.com/cgrail)
 ### SAP d-kom 2017 in Karlsruhe, Germany
 [nCounter − Exploring Business Data in Multidimensional Space](https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/)
 
-## Talks from 2016
+## 2016
 
 ### EclipseCon 2016 in Reston, Virginia
 [How to convince your manager to go Open Source and build an open community](https://www.eclipsecon.org/na2016/session/how-convince-your-manager-go-open-source-and-build-open-community-eclipse-iot.html)
@@ -64,7 +64,7 @@ Need for Speed: How to optimize the Performance of SAP UI5 applications
 ### SAP d-kom 2016 Silicon Valley in Santa Clara, California
 How to convince your manager to go Open Source
 
-## Talks from 2015
+## 2015
 
 ### SAP d-kom 2015 Silicon Valley in San Mateo, California
 Learn from the best in the cloud - Continuous Delivery and DevOps
@@ -72,12 +72,12 @@ Learn from the best in the cloud - Continuous Delivery and DevOps
 ### SAP d-kom 2015 Silicon Valley in San Mateo, California
 Faster development with Grunt (SAP UI5/Angular)
 
-## Talks from 2014
+## 2014
 
 ### EclipseCon 2014 in in Burlingame, California
 [Code Matters - Eclipse Hackers Git Guide](http://www.eclipsecon.org/na2014/session/code-matters-eclipse-hackers-git-guide.html)
 
-## Talks from 2012
+## 2012
 
 ### SAP d-kom 2012 in Karlsruhe
 [InnoJam presentation](https://blogs.sap.com/2012/03/28/and-the-winner-is-pre-dkom-innojam-2012-rot-is-over-now/)
