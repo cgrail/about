@@ -1,4 +1,4 @@
-# Talks from Christian Grail
+# Christian Grail
 
 Christian Grail is a Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space. 
 
