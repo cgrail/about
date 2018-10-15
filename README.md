@@ -65,7 +65,7 @@ Faster development with Grunt (SAP UI5/Angular)
 ## 2014
 
 ### EclipseCon 2014 at Hyatt Regency San Francisco Airport, California
-[CODE MATTERS - ECLIPSE HACKER'S GIT GUIDE](http://www.eclipsecon.org/na2014/session/code-matters-eclipse-hackers-git-guide.html)
+[Code Matters - Eclipse Hackers Git Guide](http://www.eclipsecon.org/na2014/session/code-matters-eclipse-hackers-git-guide.html)
 
 ## 2012
 
