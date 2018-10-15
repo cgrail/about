@@ -48,10 +48,10 @@
 
 ![OSCON  2016](photos/OSCON_2016.png)
 
-### SAP d-kom 2016 Silicon Valley at the Santa Clara Convention Center, California
+### SAP d-kom 2016 Silicon Valley in Santa Clara, California
 Need for Speed: How to optimize the Performance of SAP UI5 applications
 
-### SAP d-kom 2016 Silicon Valley at the Santa Clara Convention Center, California
+### SAP d-kom 2016 Silicon Valley in Santa Clara, California
 How to convince your manager to go Open Source
 
 ## 2015
@@ -64,7 +64,7 @@ Faster development with Grunt (SAP UI5/Angular)
 
 ## 2014
 
-### EclipseCon 2014 at Hyatt Regency San Francisco Airport, California
+### EclipseCon 2014 in in Burlingame, California
 [Code Matters - Eclipse Hackers Git Guide](http://www.eclipsecon.org/na2014/session/code-matters-eclipse-hackers-git-guide.html)
 
 ## 2012
