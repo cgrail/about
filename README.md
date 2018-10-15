@@ -1,50 +1,5 @@
 # Talks from Christian Grail
 
-## 2014
-
-EclipseCon 2014 at Hyatt Regency San Francisco Airport, California
-- Talk: “CODE MATTERS - ECLIPSE HACKER'S GIT GUIDE”
-- http://www.eclipsecon.org/na2014/session/code-matters-eclipse-hackers-git-guide.html
-- http://www.eclipsecon.org/na2014/user/2221.html
-
-## 2015
-
-SAP d-kom 2015 Silicon Valley in San Mateo, California
-- Talk: “Learn from the best in the cloud - Continuous Delivery and DevOps”
-
-SAP d-kom 2015 Silicon Valley in San Mateo, California
-- Talk: “Faster development with Grunt (SAP UI5/Angular)”
-
-## 2016
-
-EclipseCon 2016 in Reston, Virginia
-- Talk: “How to convince your manager to go Open Source and build an open community” - https://www.eclipsecon.org/na2016/session/how-convince-your-manager-go-open-source-and-build-open-community-eclipse-iot.html
-
-O'Reilly OSCON in Austin, Texas
-- Talk: “How to convince your manager to go open source”
-- Recording: https://www.oreilly.com/library/view/oscon-2016-video/9781491965153/video247467.html
-- https://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/49103
-
-![OSCON  2016](photos/OSCON_2016.png)
-
-SAP d-kom 2016 Silicon Valley at the Santa Clara Convention Center, California
-- Talk: “Need for Speed: How to optimize the Performance of SAP UI5 applications”
-
-SAP d-kom 2016 Silicon Valley at the Santa Clara Convention Center, California
-- Talk: “How to convince your manager to go Open Source”
-
-## 2017
-
-Google Developer Group Karlsruhe DevFest 2017 in Karlsruhe, Germany
-- Talk: “Augmented Reality Game Development - Live Coding Session”
-- http://www.devfestka.de/info
-
-![Google Developer Group Karlsruhe DevFest 2017 in Karlsruhe, Germany](photos/DevFestKA_2017.jpg)
-
-SAP d-kom 2017 in Karlsruhe, Germany
-- Talk: “nCounter − Exploring Business Data in Multidimensional Space
-- https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/
-
 ## 2018
 
 JAX 2018 in Mainz, Germany
@@ -79,3 +34,55 @@ AngularMix 2018 in Orlando, Florida
 Frontend Connect in Warsaw, Poland
 - Talk: “Talk: Live Coding Session: Game Development with WebXR”
 - https://frontend-con.io/speakers/#christian
+
+## 2017
+
+Google Developer Group Karlsruhe DevFest 2017 in Karlsruhe, Germany
+- Talk: “Augmented Reality Game Development - Live Coding Session”
+- http://www.devfestka.de/info
+
+![Google Developer Group Karlsruhe DevFest 2017 in Karlsruhe, Germany](photos/DevFestKA_2017.jpg)
+
+SAP d-kom 2017 in Karlsruhe, Germany
+- Talk: “nCounter − Exploring Business Data in Multidimensional Space
+- https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/
+
+## 2016
+
+EclipseCon 2016 in Reston, Virginia
+- Talk: “How to convince your manager to go Open Source and build an open community” - https://www.eclipsecon.org/na2016/session/how-convince-your-manager-go-open-source-and-build-open-community-eclipse-iot.html
+
+O'Reilly OSCON in Austin, Texas
+- Talk: “How to convince your manager to go open source”
+- Recording: https://www.oreilly.com/library/view/oscon-2016-video/9781491965153/video247467.html
+- https://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/49103
+
+![OSCON  2016](photos/OSCON_2016.png)
+
+SAP d-kom 2016 Silicon Valley at the Santa Clara Convention Center, California
+- Talk: “Need for Speed: How to optimize the Performance of SAP UI5 applications”
+
+SAP d-kom 2016 Silicon Valley at the Santa Clara Convention Center, California
+- Talk: “How to convince your manager to go Open Source”
+
+## 2015
+
+SAP d-kom 2015 Silicon Valley in San Mateo, California
+- Talk: “Learn from the best in the cloud - Continuous Delivery and DevOps”
+
+SAP d-kom 2015 Silicon Valley in San Mateo, California
+- Talk: “Faster development with Grunt (SAP UI5/Angular)”
+
+## 2014
+
+EclipseCon 2014 at Hyatt Regency San Francisco Airport, California
+- Talk: “CODE MATTERS - ECLIPSE HACKER'S GIT GUIDE”
+- http://www.eclipsecon.org/na2014/session/code-matters-eclipse-hackers-git-guide.html
+- http://www.eclipsecon.org/na2014/user/2221.html
+
+## 2012
+
+SAP d-kom 2012 in Karlsruhe
+- Winner of the InnoJam
+
+![SAP d-kom 2012 in Karlsruhe](photos/DKOM_2012.jpg)
