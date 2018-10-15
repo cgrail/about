@@ -1,4 +1,4 @@
-# List of all talks from Christian Grail
+# Talks from Christian Grail
 
 ## 2014
 
@@ -25,6 +25,8 @@ O'Reilly OSCON in Austin, Texas
 - Recording: https://www.oreilly.com/library/view/oscon-2016-video/9781491965153/video247467.html
 - https://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/49103
 
+![OSCON  2016](photos/OSCON_2016.png)
+
 SAP d-kom 2016 Silicon Valley at the Santa Clara Convention Center, California
 - Talk: “Need for Speed: How to optimize the Performance of SAP UI5 applications”
 
@@ -36,6 +38,8 @@ SAP d-kom 2016 Silicon Valley at the Santa Clara Convention Center, California
 Google Developer Group Karlsruhe DevFest 2017 in Karlsruhe, Germany
 - Talk: “Augmented Reality Game Development - Live Coding Session”
 - http://www.devfestka.de/info
+
+![Google Developer Group Karlsruhe DevFest 2017 in Karlsruhe, Germany](photos/DevFestKA_2017.jpg)
 
 SAP d-kom 2017 in Karlsruhe, Germany
 - Talk: “nCounter − Exploring Business Data in Multidimensional Space
@@ -52,17 +56,25 @@ TakeOff Conf in Lille, France
 - Recording: https://youtu.be/P99LOv23zZw
 - https://www.takeoffconf.io/schedule
 
+![TakeOff Conf in Lille, France](photos/TakeOff_2018.png)
+
 UI5con in St. Leon-Rot, Germany
 - Talk: “Live Coding: Augmented Reality Game with WebXR”
 - https://openui5.org/ui5con/material2018.html
+
+![UI5con in St. Leon-Rot, Germany](photos/UI5Con_2018.jpg)
 
 TechFest 2018 in Bucharest, Romania
 - Talk: “Live Coding: Augmented Reality Game with WebXR”
 - https://2018.techfest.ro/techjam/
 
+![TechFest 2018 in Bucharest, Romania](photos/TechFest_2018.JPG)
+
 AngularMix 2018 in Orlando, Florida
 - Talk: “How to convince your manager to go Open Source”
 - https://angularmix.com/#!/speakers/Christian%20Grail
+
+![AngularMix 2018 in Orlando, Florida](photos/AngulaxMix_2018.jpg)
 
 Frontend Connect in Warsaw, Poland
 - Talk: “Talk: Live Coding Session: Game Development with WebXR”
