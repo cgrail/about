@@ -2,7 +2,7 @@
 
 Christian Grail is a Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space. Christian has spent some time in the Silicon Valley working on projects like [BUILD](https://www.build.me/) and the new [SuccessFactors People Profile](https://www.youtube.com/watch?v=0uIApuOxG8A). Currently he is working on tools like [DataEncounter](https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/) and [SAP Inscribe](https://news.sap.com/2018/06/sap-inscribe-bottom-up-innovation-story/).
 
-![Christian Grail - Development Architect at SAP](photos/christian-grail.jpg)
+![Christian Grail - Development Architect at SAP](photos/christian-grail-small.jpg)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me on [Twitter](https://twitter.com/cgrail)
 
@@ -31,7 +31,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 ### TakeOff Conf in Lille, France
 [Game Development with WebAR](https://youtu.be/P99LOv23zZw)
 
-[![TakeOff Conf in Lille, France](photos/TakeOff_2018.png)](https://youtu.be/P99LOv23zZw)
+[![TakeOff Conf in Lille, France](photos/TakeOff_2018.jpg)](https://youtu.be/P99LOv23zZw)
 
 ### JAX 2018 in Mainz, Germany
 [Developing an Augmented Reality Game in UI5 with ARCore for Web](https://jax.de/web-development-javascript/developing-an-augmented-reality-game-in-ui5-with-arcore-for-web/)
@@ -54,7 +54,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 ### O'Reilly OSCON in Austin, Texas
 [How to convince your manager to go open source](https://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/49103)
 
-[![OSCON  2016](photos/OSCON_2016.png)](https://www.oreilly.com/library/view/oscon-2016-video/9781491965153/video247467.html)
+[![OSCON  2016](photos/OSCON_2016.jpg)](https://www.oreilly.com/library/view/oscon-2016-video/9781491965153/video247467.html)
 
 
 ### SAP d-kom 2016 Silicon Valley in Santa Clara, California
