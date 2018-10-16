@@ -33,7 +33,7 @@ Or you can follow him on [twitter.com/cgrail](https://twitter.com/cgrail)
 ### TakeOff Conf in Lille, France
 [Game Development with WebAR](https://youtu.be/P99LOv23zZw)
 
-![TakeOff Conf in Lille, France](photos/TakeOff_2018.png)
+[![TakeOff Conf in Lille, France](photos/TakeOff_2018.png)](https://youtu.be/P99LOv23zZw)
 
 ### JAX 2018 in Mainz, Germany
 [Developing an Augmented Reality Game in UI5 with ARCore for Web](https://jax.de/web-development-javascript/developing-an-augmented-reality-game-in-ui5-with-arcore-for-web/)
@@ -56,7 +56,8 @@ Or you can follow him on [twitter.com/cgrail](https://twitter.com/cgrail)
 ### O'Reilly OSCON in Austin, Texas
 [How to convince your manager to go open source](https://www.oreilly.com/library/view/oscon-2016-video/9781491965153/video247467.html)
 
-![OSCON  2016](photos/OSCON_2016.png)
+[![OSCON  2016](photos/OSCON_2016.png)](https://www.oreilly.com/library/view/oscon-2016-video/9781491965153/video247467.html)
+
 
 ### SAP d-kom 2016 Silicon Valley in Santa Clara, California
 Need for Speed: How to optimize the Performance of SAP UI5 applications
