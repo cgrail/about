@@ -1,6 +1,6 @@
 # Christian Grail
 
-Christian Grail is a Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space. 
+Christian Grail is a Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space. Christian has spent some time in the Silicon Valley working on projects like [BUILD](https://www.build.me/) and the new [SuccessFactors People Profile](https://www.youtube.com/watch?v=0uIApuOxG8A). Currently he is working on tools like [DataEncounter](https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/) and [SAP Inscribe](https://news.sap.com/2018/06/sap-inscribe-bottom-up-innovation-story/).
 
 ![Christian Grail - Development Architect at SAP](photos/christian-grail.jpg)
 
