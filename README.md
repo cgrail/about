@@ -54,7 +54,7 @@ Or you can follow him on [twitter.com/cgrail](https://twitter.com/cgrail)
 [How to convince your manager to go Open Source and build an open community](https://www.eclipsecon.org/na2016/session/how-convince-your-manager-go-open-source-and-build-open-community-eclipse-iot.html)
 
 ### O'Reilly OSCON in Austin, Texas
-[How to convince your manager to go open source](https://www.oreilly.com/library/view/oscon-2016-video/9781491965153/video247467.html)
+[How to convince your manager to go open source](https://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/49103)
 
 [![OSCON  2016](photos/OSCON_2016.png)](https://www.oreilly.com/library/view/oscon-2016-video/9781491965153/video247467.html)
 
