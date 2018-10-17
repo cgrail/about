@@ -1,6 +1,6 @@
 # Christian Grail
 
-Christian Grail is a Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space. Christian has spent some time in the Silicon Valley working on projects like [BUILD](https://www.build.me/) and the new [SuccessFactors People Profile](https://www.youtube.com/watch?v=0uIApuOxG8A). Currently he is working on tools like [DataEncounter](https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/) and [SAP Inscribe](https://news.sap.com/2018/06/sap-inscribe-bottom-up-innovation-story/).
+Christian Grail is a Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space. Christian has spent some time in the Silicon Valley working on projects like [BUILD](https://www.build.me/) a complete set of cloud-based tools to design and build enterprise apps and the new [SuccessFactors People Profile](https://www.youtube.com/watch?v=0uIApuOxG8A) for SAP's cloud-based HCM solution . Currently he is working on exciting new projects like [DataEncounter](https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/) a tool which allows to explore Big Data in 3D with the help of Augmented Reality and [SAP Inscribe](https://news.sap.com/2018/06/sap-inscribe-bottom-up-innovation-story/) a handwriting and Machine Learning based Conversational Digital Assistant.
 
 ![Christian Grail - Development Architect at SAP](photos/christian-grail-small.jpg)
 
@@ -79,6 +79,6 @@ Faster development with Grunt (SAP UI5/Angular)
 ## 2012
 
 ### SAP d-kom 2012 in Karlsruhe
-[InnoJam presentation](https://blogs.sap.com/2012/03/28/and-the-winner-is-pre-dkom-innojam-2012-rot-is-over-now/)
+[Quick Resolve presentation](https://blogs.sap.com/2012/03/28/and-the-winner-is-pre-dkom-innojam-2012-rot-is-over-now/)
 
 ![SAP d-kom 2012 in Karlsruhe](photos/DKOM_2012.jpg)
