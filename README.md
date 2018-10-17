@@ -76,9 +76,11 @@ Faster development with Grunt (SAP UI5/Angular)
 ### EclipseCon 2014 in in Burlingame, California
 [Code Matters - Eclipse Hackers Git Guide](http://www.eclipsecon.org/na2014/session/code-matters-eclipse-hackers-git-guide.html)
 
+![SAP d-kom 2012 in Karlsruhe](photos/DKOM_2012.jpg)
+
 ## 2012
 
 ### SAP d-kom 2012 in Karlsruhe
 [Quick Resolve presentation](https://blogs.sap.com/2012/03/28/and-the-winner-is-pre-dkom-innojam-2012-rot-is-over-now/)
 
-![SAP d-kom 2012 in Karlsruhe](photos/DKOM_2012.jpg)
+![SAP d-kom 2012 in Karlsruhe](photos/teched_crowd_2012.jpg)
