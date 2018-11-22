@@ -8,10 +8,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 
 # Talks from Christian Grail
 
-## 2018
+## 2019
 
-### Frontend Connect in Warsaw, Poland
-[Live Coding Session: Game Development with WebXR](https://frontend-con.io/speakers/#christian)
+### heise c't \<webdev\> in Köln, Germany
+
+[Live Coding Session: Game Development with WebXR](https://ctwebdev.de/programm.html#slot-18)
+
+## 2018
 
 ### AngularMix 2018 in Orlando, Florida
 [How to convince your manager to go Open Source](https://angularmix.com/#!/speakers/Christian%20Grail)
