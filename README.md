@@ -22,6 +22,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 
 [Live Coding: Augmented Reality Game with ARKit](https://2019.iosconf.sg/schedule/#session-112)
 
+[![iOS Conference in Singapore](photos/iosconfsg.png)](https://youtu.be/Q91z42kTJFM)
+
 ## 2018
 
 ### AngularMix 2018 in Orlando, Florida
