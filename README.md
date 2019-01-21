@@ -10,9 +10,17 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 
 ## 2019
 
+### JavaLand 2019 in Brühl, Germany
+
+[Live Coding Session: Game Development with WebXR](https://programm.javaland.eu/2019/#/scheduledEvent/569913)
+
 ### heise c't \<webdev\> in Köln, Germany
 
 [Live Coding Session: Game Development with WebXR](https://ctwebdev.de/programm.html#slot-18)
+
+### iOS Conference in Singapore
+
+[Live Coding: Augmented Reality Game with ARKit](https://2019.iosconf.sg/schedule/#session-112)
 
 ## 2018
 
