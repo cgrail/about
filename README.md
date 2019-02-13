@@ -18,6 +18,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 
 [Live Coding Session: Game Development with WebXR](https://ctwebdev.de/programm.html#slot-18)
 
+[![iOS Conference in Singapore](photos/ct-webdev-2019.jpg)](https://ctwebdev.de/programm.html#slot-18)
+
 ### iOS Conference in Singapore
 
 [Live Coding: Augmented Reality Game with ARKit](https://2019.iosconf.sg/schedule/#session-112)
