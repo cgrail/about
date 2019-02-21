@@ -18,7 +18,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 
 [Live Coding Session: Game Development with WebXR](https://ctwebdev.de/programm.html#slot-18)
 
-[![iOS Conference in Singapore](photos/ct-webdev-2019.jpg)](https://ctwebdev.de/programm.html#slot-18)
+[![heise c't \<webdev\> in Köln, Germany](photos/ct-webdev-2019.jpg)](https://ctwebdev.de/programm.html#slot-18)
+
+[![heise c't \<webdev\> in Köln, Germany](photos/ct-webdev-2019-coding.jpg)](https://ctwebdev.de/programm.html#slot-18)
 
 ### iOS Conference in Singapore
 
