@@ -10,9 +10,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 
 ## 2019
 
-### JavaLand 2019 in Brühl, Germany
+### JavaLand in Brühl, Germany
 
 [Live Coding Session: Game Development with WebXR](https://programm.javaland.eu/2019/#/scheduledEvent/569913)
+
+### Appdevcon in Amsterdam, Netherlands
+
+[ARKit Game Development Tutorial](ARKit Game Development Tutorial)
 
 ### heise c't \<webdev\> in Köln, Germany
 
