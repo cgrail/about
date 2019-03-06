@@ -16,7 +16,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 
 ### Appdevcon in Amsterdam, Netherlands
 
-[ARKit Game Development Tutorial](ARKit Game Development Tutorial)
+[ARKit Game Development Tutorial](https://appdevcon.nl/session/arkit-game-development-tutorial/)
 
 ### heise c't \<webdev\> in Köln, Germany
 
