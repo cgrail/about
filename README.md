@@ -30,7 +30,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 
 [Live Coding: Augmented Reality Game with ARKit](https://2019.iosconf.sg/schedule/#session-112)
 
-{% include youtubePlayer.html id=Q91z42kTJFM %}
+{% include youtubePlayer.html id='Q91z42kTJFM' %}
 
 ## 2018
 
