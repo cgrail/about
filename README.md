@@ -52,7 +52,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 ### TakeOff Conf in Lille, France
 [Game Development with WebAR](https://youtu.be/P99LOv23zZw)
 
-[![TakeOff Conf in Lille, France](photos/TakeOff_2018.jpg)](https://youtu.be/P99LOv23zZw)
+{% include youtubePlayer.html id='P99LOv23zZw' %}
 
 ### JAX 2018 in Mainz, Germany
 [Developing an Augmented Reality Game in UI5 with ARCore for Web](https://jax.de/web-development-javascript/developing-an-augmented-reality-game-in-ui5-with-arcore-for-web/)
