@@ -1,21 +1,21 @@
 # Christian Grail
 
-Christian Grail is a Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space. He is a core maintainer of the open-source and crowd-sourced technical conference and CFP list [www.confs.tech](https://www.confs.tech/)
+Christian Grail is a Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space. He is a core maintainer of the open-source and crowd-sourced technical conference and CFP list [www.confs.tech](https://confs.tech)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me on [Twitter](https://twitter.com/cgrail)
 
 ![Christian Grail - Development Architect at SAP](photos/christian-grail-small.jpg)
 
-Here are a few projects I've worked on in the last years.
+Here are a few projects I have been working over the last few years
 
-[SAP Inscribe](https://news.sap.com/2018/06/sap-inscribe-bottom-up-innovation-story/) a handwriting and Machine Learning based Conversational Digital Assistant
+[SAP Inscribe](https://news.sap.com/2018/06/sap-inscribe-bottom-up-innovation-story/) a handwriting and machine learning based Conversational Digital Assistant
 {% include youtubePlayer.html id='kICnfrqOizw' %}
 
-[DataEncounter](https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/) an award winning 3D Big Data exploration tool which utilizes Augmented and Virtual Reality
+[DataEncounter](https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/) an award winning 3D Big Data exploration tool which utilizes AR and VR
 {% include sapVideoPlayer.html id='0_mdjdr8rn' %}
 
 [BUILD](https://www.build.me/) a complete set of cloud-based tools to design and build enterprise apps 
-{% include vimeoPlayer.html id='261899430' %}
+{% include vimeoPlayer.html id='182832619' %}
 
 [SuccessFactors People Profile](https://www.youtube.com/watch?v=0uIApuOxG8A) for SAP's cloud-based HCM solution
 {% include youtubePlayer.html id='0uIApuOxG8A' %}
