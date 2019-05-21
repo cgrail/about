@@ -6,7 +6,7 @@ Christian Grail is a Development Architect at SAP in Germany. With the SAP Desig
 
 {% include vimeoPlayer.html id='261899430' %}
 
-{% include sapVideoPlayer.html id='1_x6aw8omx' %}
+{% include youtubePlayer.html id='kICnfrqOizw' %}
 
 {% include sapVideoPlayer.html id='0_mdjdr8rn' %}
 
