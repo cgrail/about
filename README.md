@@ -4,6 +4,8 @@ Christian Grail is a Development Architect at SAP in Germany. With the SAP Desig
 
 ![Christian Grail - Development Architect at SAP](photos/christian-grail-small.jpg)
 
+{% include vimeoPlayer.html id='261899430' %}
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me on [Twitter](https://twitter.com/cgrail)
 
 # Talks from Christian Grail
