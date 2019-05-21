@@ -1,6 +1,6 @@
 # Christian Grail
 
-Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space. He is a core maintainer of the open-source and crowd-sourced technical conference and CFP list [www.confs.tech](https://www.confs.tech/).
+Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space. He is a core maintainer of the open-source and crowd-sourced technical conference and CFP list [www.confs.tech](https://www.confs.tech/)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me on [Twitter](https://twitter.com/cgrail)
 
