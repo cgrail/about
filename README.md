@@ -121,4 +121,4 @@ Faster development with Grunt (SAP UI5/Angular)
 
 ![SAP d-kom 2012 in Karlsruhe](photos/teched_crowd_2012.jpg)
 
-{% include videoPlayer.css %}
+{% include videoPlayer.html %}
