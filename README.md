@@ -25,6 +25,14 @@ Here are a few projects I have been working over the last few years
 
 ## 2019
 
+### Halfstack Vienna, Austria
+
+[Live Coding: Augmented Reality Game with WebXR](https://halfstackconf.com/vienna/schedule/)
+
+### 360|iDev Denver CO, USA
+
+[Live Coding: Augmented Reality Game with ARKit](https://programm.javaland.eu/2019/#/scheduledEvent/569913)
+
 ### JavaLand in Brühl, Germany
 
 [Live Coding Session: Game Development with WebXR](https://programm.javaland.eu/2019/#/scheduledEvent/569913)
