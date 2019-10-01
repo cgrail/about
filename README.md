@@ -29,6 +29,10 @@ Here are a few projects I have been working over the last few years
 
 [Develop an Augmented-Reality Web App with SAPUI5 and WebXR](https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=220&sid=91389_0&locale=en_US)
 
+[![SAP TechEd Las Vegas NV, USA](photos/2019-TechEd-Las-Vegas.jpg)](https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=220&sid=91389_0&locale=en_US)
+
+[![SAP TechEd Las Vegas NV, USA](photos/2019-TechEd-Las-Vegas-room.jpg)](https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=220&sid=91389_0&locale=en_US)
+
 ### SAP TechEd Barcelona, Spain
 
 [Develop an Augmented-Reality Web App with SAPUI5 and WebXR](https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=221&sid=91389_0&locale=en_US)
@@ -37,9 +41,7 @@ Here are a few projects I have been working over the last few years
 
 [Live Coding: Augmented Reality Game with WebXR](https://halfstackconf.com/vienna/schedule/)
 
-### 360|iDev Denver CO, USA
 
-[Live Coding: Augmented Reality Game with ARKit](https://programm.javaland.eu/2019/#/scheduledEvent/569913)
 
 ### JavaLand in Brühl, Germany
 
