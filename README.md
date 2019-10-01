@@ -41,7 +41,7 @@ Here are a few projects I have been working over the last few years
 
 [Live Coding: Augmented Reality Game with WebXR](https://halfstackconf.com/vienna/schedule/)
 
-
+[![SHalfstack Vienna, Austria](photos/2019-Halfstack-Vienna.jpg)](https://halfstackconf.com/vienna/2019/)
 
 ### JavaLand in Brühl, Germany
 
