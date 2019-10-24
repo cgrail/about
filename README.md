@@ -37,6 +37,8 @@ Here are a few projects I have been working over the last few years
 
 [Develop an Augmented-Reality Web App with SAPUI5 and WebXR](https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=221&sid=91389_0&locale=en_US)
 
+[![SAP TechEd Barcelona, Spain](photos/2019-TechEd-Barcelona.JPG)](https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=221&sid=91389_0&locale=en_US)
+
 ### Halfstack Vienna, Austria
 
 [Live Coding: Augmented Reality Game with WebXR](https://halfstackconf.com/vienna/schedule/)
