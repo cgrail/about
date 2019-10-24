@@ -43,7 +43,7 @@ Here are a few projects I have been working over the last few years
 
 [Live Coding: Augmented Reality Game with WebXR](https://halfstackconf.com/vienna/schedule/)
 
-[![SHalfstack Vienna, Austria](photos/2019-Halfstack-Vienna.jpg)](https://halfstackconf.com/vienna/2019/)
+[![Halfstack Vienna, Austria](photos/2019-Halfstack-Vienna.jpg)](https://halfstackconf.com/vienna/2019/)
 
 ### JavaLand in Brühl, Germany
 
@@ -52,6 +52,9 @@ Here are a few projects I have been working over the last few years
 ### Appdevcon in Amsterdam, Netherlands
 
 [ARKit Game Development Tutorial](https://appdevcon.nl/session/arkit-game-development-tutorial/)
+
+[![Appdevcon in Amsterdam, Netherlands](photos/2019-AppDevCon-Amsterdam.jpg)](https://appdevcon.nl/session/arkit-game-development-tutorial/)
+
 
 ### heise c't \<webdev\> in Köln, Germany
 
