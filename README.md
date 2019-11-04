@@ -6,21 +6,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 
 ![Christian Grail - Development Architect at SAP](photos/christian-grail-small.jpg)
 
-Here are a few projects I have been working over the last few years
-
-[SAP Inscribe](https://news.sap.com/2018/06/sap-inscribe-bottom-up-innovation-story/) a handwriting and machine learning based Conversational Digital Assistant
-{% include youtubePlayer.html id='kICnfrqOizw' %}
-
-[DataEncounter](https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/) an award winning 3D Big Data exploration tool which utilizes AR and VR
-{% include sapVideoPlayer.html id='0_mdjdr8rn' %}
-
-[BUILD](https://www.build.me/) a complete set of cloud-based tools to design and build enterprise apps 
-{% include vimeoPlayer.html id='182832619' %}
-
-[SuccessFactors People Profile](https://www.youtube.com/watch?v=0uIApuOxG8A) for SAP's cloud-based HCM solution
-{% include youtubePlayer.html id='0uIApuOxG8A' %}
-
-
 # Talks from Christian Grail
 
 ## 2019
@@ -144,4 +129,18 @@ Faster development with Grunt (SAP UI5/Angular)
 
 ![SAP d-kom 2012 in Karlsruhe](photos/teched_crowd_2012.jpg)
 
-{% include videoPlayer.html %}
+# Projects from Christian Grail
+
+Here are a few projects I have been working over the last few years
+
+[SAP Inscribe](https://news.sap.com/2018/06/sap-inscribe-bottom-up-innovation-story/) a handwriting and machine learning based Conversational Digital Assistant
+{% include youtubePlayer.html id='kICnfrqOizw' %}
+
+[DataEncounter](https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/) an award winning 3D Big Data exploration tool which utilizes AR and VR
+{% include sapVideoPlayer.html id='0_mdjdr8rn' %}
+
+[BUILD](https://www.build.me/) a complete set of cloud-based tools to design and build enterprise apps 
+{% include vimeoPlayer.html id='182832619' %}
+
+[SuccessFactors People Profile](https://www.youtube.com/watch?v=0uIApuOxG8A) for SAP's cloud-based HCM solution
+{% include youtubePlayer.html id='0uIApuOxG8A' %}
