@@ -8,6 +8,12 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me 
 
 # Talks from Christian Grail
 
+## 2021
+
+### WeAreDevelopers World Congress
+
+[Live Coding: Augmented Reality Game with WebXR](https://www.wearedevelopers.com/world-congress/)
+
 ## 2019
 
 ### SAP TechEd Las Vegas NV, USA
