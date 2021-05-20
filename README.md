@@ -1,6 +1,6 @@
 # Christian Grail
 
-Christian Grail is a Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space. He is a core maintainer of the open-source and crowd-sourced technical conference and CFP list [www.confs.tech](https://confs.tech)
+Christian Grail is a Development Architect at SAP in Germany. Christian has developed apps with traditional and futuristic user interfaces like AR, VR and handwriting based UIs. Christian is a full stack developer with experience in Swift, Java, C#, and JavaScript. He is a core maintainer of the open-source and crowd-sourced technical conference and CFP list [www.confs.tech](https://confs.tech) on [Github](https://github.com/tech-conferences/conference-data).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/cgrail/) or follow me on [Twitter](https://twitter.com/cgrail)
 
