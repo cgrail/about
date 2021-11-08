@@ -125,7 +125,7 @@ How to convince your manager to go Open Source and build an open community
 
 ### O'Reilly OSCON in Austin TX, USA
 
-How to convince your manager to go open source](https://web.archive.org/web/20200808031029/https://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/49103)
+[How to convince your manager to go open source](https://web.archive.org/web/20200808031029/https://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/49103)
 
 [![OSCON  2016](photos/OSCON_2016.jpg)](https://www.oreilly.com/library/view/oscon-2016-video/9781491965153/video247467.html)
 
