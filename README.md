@@ -33,7 +33,7 @@ Here are a few projects I have been working over the last few years
 
 ### SAP TechEd Las Vegas NV, USA
 
-[Develop an Augmented-Reality Web App with SAPUI5 and WebXR](https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=220&sid=91389_0&locale=en_US)
+Develop an Augmented-Reality Web App with SAPUI5 and WebXR
 
 [![SAP TechEd Las Vegas NV, USA](photos/2019-TechEd-Las-Vegas.jpg)](https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=220&sid=91389_0&locale=en_US)
 
@@ -41,7 +41,7 @@ Here are a few projects I have been working over the last few years
 
 ### SAP TechEd Barcelona, Spain
 
-[Develop an Augmented-Reality Web App with SAPUI5 and WebXR](https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=221&sid=91389_0&locale=en_US)
+https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=221&sid=91389_0&locale=en_US
 
 [![SAP TechEd Barcelona, Spain](photos/2019-TechEd-Barcelona.JPG)](https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=221&sid=91389_0&locale=en_US)
 
@@ -63,11 +63,11 @@ Live Coding Session: Game Development with WebXR
 
 ### heise c't \<webdev\> in Köln, Germany
 
-[Live Coding Session: Game Development with WebXR](https://ctwebdev.de/programm.html#slot-18)
+[Live Coding Session: Game Development with WebXR](https://ctwebdev.de/2019.html#slot-18)
 
-[![heise c't <webdev> in Köln, Germany](photos/ct-webdev-2019.jpg)](https://ctwebdev.de/programm.html#slot-18)
+[![heise c't <webdev> in Köln, Germany](photos/ct-webdev-2019.jpg)](https://ctwebdev.de/2019.html#slot-18)
 
-[![heise c't <webdev> in Köln, Germany](photos/ct-webdev-2019-coding.jpg)](https://ctwebdev.de/programm.html#slot-18)
+[![heise c't <webdev> in Köln, Germany](photos/ct-webdev-2019-coding.jpg)](https://ctwebdev.de/2019.html#slot-18)
 
 ### iOS Conference in Singapore
 
