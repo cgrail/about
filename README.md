@@ -65,9 +65,9 @@ Live Coding Session: Game Development with WebXR
 
 [Live Coding Session: Game Development with WebXR](https://ctwebdev.de/2019.html#slot-18)
 
-[![heise c't <webdev> in Köln, Germany](photos/ct-webdev-2019.jpg)](https://ctwebdev.de/2019.html#slot-18)
+![heise ct webdev](photos/ct-webdev-2019.jpg)
 
-[![heise c't <webdev> in Köln, Germany](photos/ct-webdev-2019-coding.jpg)](https://ctwebdev.de/2019.html#slot-18)
+![heise ct webdev](photos/ct-webdev-2019-coding.jpg)
 
 ### iOS Conference in Singapore
 
