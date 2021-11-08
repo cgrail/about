@@ -53,7 +53,7 @@ Here are a few projects I have been working over the last few years
 
 ### JavaLand in Brühl, Germany
 
-[Live Coding Session: Game Development with WebXR](https://programm.javaland.eu/2019/#/scheduledEvent/569913)
+Live Coding Session: Game Development with WebXR
 
 ### Appdevcon in Amsterdam, Netherlands
 
@@ -79,19 +79,19 @@ Here are a few projects I have been working over the last few years
 
 ### AngularMix 2018 in Orlando FL, USA
 
-[How to convince your manager to go Open Source](https://angularmix.com/#!/speakers/Christian%20Grail)
+How to convince your manager to go Open Source
 
 ![AngularMix 2018 in Orlando, Florida](photos/AngulaxMix_2018.jpg)
 
 ### TechFest 2018 in Bucharest, Romania
 
-[Live Coding: Augmented Reality Game with WebXR](https://2018.techfest.ro/techjam/)
+Live Coding: Augmented Reality Game with WebXR
 
 ![TechFest 2018 in Bucharest, Romania](photos/TechFest_2018.JPG)
 
 ### UI5con in St. Leon-Rot, Germany
 
-[Live Coding: Augmented Reality Game with WebXR](https://openui5.org/ui5con/material2018.html)
+[Live Coding: Augmented Reality Game with WebXR](https://openui5.org/ui5con/germany2019/material2018.html)
 
 ![UI5con in St. Leon-Rot, Germany](photos/UI5Con_2018.jpg)
 
@@ -109,23 +109,23 @@ Here are a few projects I have been working over the last few years
 
 ### Google Developer Group Karlsruhe DevFest 2017 in Karlsruhe, Germany
 
-[Augmented Reality Game Development - Live Coding Session](http://www.devfestka.de/info)
+Augmented Reality Game Development - Live Coding Session
 
 ![Google Developer Group Karlsruhe DevFest 2017 in Karlsruhe, Germany](photos/DevFestKA_2017.jpg)
 
 ### SAP d-kom 2017 in Karlsruhe, Germany
 
-[nCounter − Exploring Business Data in Multidimensional Space](https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/)
+nCounter − Exploring Business Data in Multidimensional Space
 
 ## 2016
 
 ### EclipseCon 2016 in Reston VA, USA
 
-[How to convince your manager to go Open Source and build an open community](https://www.eclipsecon.org/na2016/session/how-convince-your-manager-go-open-source-and-build-open-community-eclipse-iot.html)
+How to convince your manager to go Open Source and build an open community
 
 ### O'Reilly OSCON in Austin TX, USA
 
-[How to convince your manager to go open source](https://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/49103)
+How to convince your manager to go open source](https://web.archive.org/web/20200808031029/https://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/49103)
 
 [![OSCON  2016](photos/OSCON_2016.jpg)](https://www.oreilly.com/library/view/oscon-2016-video/9781491965153/video247467.html)
 
@@ -151,7 +151,7 @@ Faster development with Grunt (SAP UI5/Angular)
 
 ### EclipseCon 2014 in in Burlingame CA, USA
 
-[Code Matters - Eclipse Hackers Git Guide](http://www.eclipsecon.org/na2014/session/code-matters-eclipse-hackers-git-guide.html)
+[Code Matters - Eclipse Hackers Git Guide](https://docs.google.com/presentation/d/18TWTGsC2cTkPfsNaP2LizRAMGsy8zkiGF2UblHk2L60)
 
 ![SAP d-kom 2012 in Karlsruhe](photos/DKOM_2012.jpg)
 
