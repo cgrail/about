@@ -41,7 +41,7 @@ Develop an Augmented-Reality Web App with SAPUI5 and WebXR
 
 ### SAP TechEd Barcelona, Spain
 
-https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=221&sid=91389_0&locale=en_US
+Develop an Augmented-Reality Web App with SAPUI5 and WebXR
 
 [![SAP TechEd Barcelona, Spain](photos/2019-TechEd-Barcelona.JPG)](https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=221&sid=91389_0&locale=en_US)
 
