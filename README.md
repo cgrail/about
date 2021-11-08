@@ -19,9 +19,6 @@ Here are a few projects I have been working over the last few years
 [BUILD](https://www.build.me/) a complete set of cloud-based tools to design and build enterprise apps
 {% include vimeoPlayer.html id='182832619' %}
 
-[SuccessFactors People Profile](https://www.youtube.com/watch?v=0uIApuOxG8A) for SAP's cloud-based HCM solution
-{% include youtubePlayer.html id='0uIApuOxG8A' %}
-
 # Talks from Christian Grail
 
 ## 2021
