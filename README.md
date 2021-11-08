@@ -13,7 +13,7 @@ Here are a few projects I have been working over the last few years
 [SAP Inscribe](https://news.sap.com/2018/06/sap-inscribe-bottom-up-innovation-story/) a handwriting and machine learning based Conversational Digital Assistant
 {% include youtubePlayer.html id='kICnfrqOizw' %}
 
-[DataEncounter](https://experience.sap.com/news/sap-wins-ux-design-award-with-data-encounter/) an award winning 3D Big Data exploration tool which utilizes AR and VR
+[DataEncounter](https://ux-design-awards.com/de/gewinner/data-encounter) an award winning 3D Big Data exploration tool which utilizes AR and VR
 {% include sapVideoPlayer.html id='0_mdjdr8rn' %}
 
 [BUILD](https://www.build.me/) a complete set of cloud-based tools to design and build enterprise apps
